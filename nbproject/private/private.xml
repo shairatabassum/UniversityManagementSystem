@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/AdminListOfCourse.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/AdminHome.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/DBconnection.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/FacultySendMessage.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/AdminCreateCourse.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/StudentProfile.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/FacultyViewStudent.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/StudentRegistration.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/AdminListOfFaculty.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/AdminAssignFaculty.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/StudentWithdrawForm.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuClasses/Person.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuClasses/SMSclass.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/FacultyCurrentTrimester.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/Login.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/StudentResultHistory.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/StudentCurrentTrimester.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuClasses/Student.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuClasses/Faculty.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/AdminCourseWithdraw.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/AdminCreateTrimester.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/StudentHome.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/AdminChangePassword.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/StudentInbox.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/FacultyAssignGrade.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/FacultyHome.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/FacultyAllTrimester.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/AdminCreateStudent.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/AdminCreateFaculty.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/ChangePassword.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/AdminListOfStudent.java</file>
+            <file>file:/C:/Users/MeRiDa/Documents/NetBeansProjects/UMS/src/uiuUMS/AdminListOfTrimester.java</file>
+        </group>
+    </open-files>
+</project-private>
